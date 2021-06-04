@@ -199,6 +199,5 @@ public class Huffman {
 		decodedStr = sb.toString();
 		return decodedStr;
 	}
-	
-	
+		
 }
